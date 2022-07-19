@@ -1,0 +1,4 @@
+Lista de Atividades:
+- Treinar comandos no terminal
+- Criar repositórios
+- Clonar e realizar alterações
